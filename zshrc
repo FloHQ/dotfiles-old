@@ -70,3 +70,7 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+
+# Use deno
+export DENO_INSTALL="/Users/florianherlicq/.deno"
+export PATH="$DENO_INSTALL/bin:$PATH"

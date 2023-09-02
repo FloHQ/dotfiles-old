@@ -84,4 +84,10 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "github.copilot.enable": {
+      "*": true,
+      "plaintext": true,
+      "markdown": false,
+      "scminput": false
+    },
 }
